@@ -30,3 +30,5 @@ class stack():
 # print(s.is_empty())
 # s.clear()
 # print(s.is_empty())
+
+Same as list in python ,why stacks then!!!!!
